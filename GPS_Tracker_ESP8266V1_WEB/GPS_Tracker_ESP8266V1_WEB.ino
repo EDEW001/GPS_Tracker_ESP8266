@@ -40,7 +40,7 @@ const char* password = "XXXXXXXXXXX"; //not used
 /**
   * CHANGEZ l'ID du drone par celui que Alphatango vous a fourni (Trigramme + Modèle + numéro série) !
 */
-//*********************** "000000000000000000000000000000"  // 30 caractères
+//*********************** "000B01000000000000000000000001"  // 30 caractères
 const char drone_id[31] = "ILLEGAL_DRONE_APPELEZ_POLICE17"; // si l'id est inférieur à 30 caractères, le compléter avec des "0" au début
 
 extern "C" {
